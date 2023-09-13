@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="descriptionColor1">#8CABFF</color>
+    <color name="descriptionColor2">#8CABFF</color>
+    <color name="linearGradientFirstColor">#8CABFF</color>
+    <color name="linearGradientSecondColor">#4477CE</color>
+    <color name="textFieldBackGround">#526D82</color>
+    <color name="textFieldForeGround">#ADA4A5</color>
+    <color name="textFieldIconForeGround">#DDE6ED</color>
+    <color name="buttonLinearGradientFirstColor">#4477CE</color>
+    <color name="buttonLinearGradientSecondColor">#512B81</color>
+
+</resources>

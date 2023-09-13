@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fitness UI</string>
+    <string name="description_title">Let’s complete your profile</string>
+    <string name="description_subtitle">It will help us to know more about you!</string>
+    <string name="choose_gender_text">Choose Gender</string>
+    <string name="date_ofBirth_text">Date of Birth</string>
+    <string name="kg_text">KG</string>
+    <string name="your_weight_text">Your Weight</string>
+    <string name="your_height_text">Your Height</string>
+    <string name="cm_text">CM</string>
+    <string name="next_text">Next</string>
+</resources>
